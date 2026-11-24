@@ -1,4 +1,4 @@
-# EPG [![update](https://raw.githubusercontent.com/gisonzoa/epg/refs/heads/master/.github/workflows/update.yml)
+# EPG [update](https://raw.githubusercontent.com/gisonzoa/epg/refs/heads/master/.github/workflows/update.yml)
 
 Tools for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 
