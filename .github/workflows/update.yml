@@ -52,7 +52,7 @@ jobs:
       - run: git status
       - name: commit changes to guides.md
         if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
-        run: |
+        run:
           FILE=GUIDES.md
           CHANGED=$(git diff ${FILE})
           if [ -n "${CHANGED}" ]; then
