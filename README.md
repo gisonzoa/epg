@@ -1,4 +1,5 @@
-# EPG [update](https://raw.githubusercontent.com/gisonzoa/epg/refs/heads/master/.github/workflows/update.yml)
+# EPG [![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/iptv/actions/workflows/update.yml)
+
 
 Tools for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 
